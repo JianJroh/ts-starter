@@ -1,5 +1,5 @@
 {
-  "name": "ts-template",
+  "name": "ts-starter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JianJroh/ts-template.git"
+    "url": "git+https://github.com/JianJroh/ts-starter.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JianJroh/ts-template/issues"
+    "url": "https://github.com/JianJroh/ts-starter/issues"
   },
-  "homepage": "https://github.com/JianJroh/ts-template#readme",
+  "homepage": "https://github.com/JianJroh/ts-starter#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.10.1",
     "@typescript-eslint/parser": "^5.10.1",
